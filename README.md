@@ -1,5 +1,8 @@
 # Awesome-ML-Security-and-Privacy-papers
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 A curated list of Meachine learning Security & Privacy papers in Security top-4 conferences (IEEE S&P, ACM CCS, UXENIX Security and NDSS).
 
 ## Files description
