@@ -12,6 +12,10 @@ main.pdf -> The pdf version of MLSPINTOP4.xmind file. It has the same content wi
 
 Please feel free to pull requests to add papers. If you have different summary ideas or solutions, please feel free to use Issues :).
 
+We thank all the contributors to this repository.
+
 ## Licenses
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [gnipping](https://github.com/gnipping) all copyright and related or neighboring rights to this repository.
